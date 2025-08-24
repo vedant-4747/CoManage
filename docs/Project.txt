@@ -1,0 +1,22 @@
+==============PROJECT=======================
+->Project_Name:- Company Admin MAnagement System.
+(Language used:- c&c++)
+---------------------------------------------------------------------------
+=>Explain Your Project:-
+->In this project we have use concept of c & c++ to compute a company
+  admin system.
+->In this project we have use primary concept of c++ to achieve reusability
+ of code and to make information private for the comapny also to make
+ this system more secure.
+->We have created variable and reused that variable in other classes
+ and also used constructor to call the variables.
+->We have created different functions like addemplyoe:-which will add all the
+  details of emplyoee, delete->which will delete the detail of empl.
+->We use main paramter as id as it will unique for all emplyoee and it cannot be 
+  duplicate.
+->We have used switch case to provide user to select appropriate case which user 
+  like to make changes.
+->We have used array to store value of multiple emplyoee and also used loop for 
+  continiuity in flow of saving empl details.
+->We also use while loop to encounter any false condtion and to stop the flow.
+==================================================================================
