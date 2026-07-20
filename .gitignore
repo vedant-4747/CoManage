@@ -1,0 +1,75 @@
+# ============================================================
+# .gitignore — CoManage (C++ Employee Management System)
+# ============================================================
+
+# ---- Compiled Binaries ----
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+CoManage
+employee_manager
+
+# ---- Build Directories ----
+build/
+bin/
+out/
+dist/
+.cache/
+
+# ---- CMake ----
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# ---- IDE & Editor Files ----
+# Visual Studio
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# CLion / JetBrains
+.idea/
+*.iml
+
+# Dev-C++
+*.dev
+
+# Code::Blocks
+*.cbp
+*.layout
+*.depend
+
+# ---- OS Files ----
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# ---- Temporary Files ----
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
